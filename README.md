@@ -33,3 +33,5 @@
   <img src="https://img.shields.io/badge/-Youtube-8257e5?style=flat-square&labelColor=8257e5&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDn5q_9DMH2xiu1tSxBLIMA"/></a>
   
 </p>  
+
+[![card](https://github-readme-stats.vercel.app/api?username=davydcristiano&theme=default&title_color=8257e5)](https://github.com/davydcristiano)

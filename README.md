@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem. <img src="https://imagehost7.online-image-editor.com/oie_upload/images/OIE_2019NOV_51198395_60704820/26192514zLnO1BX7.gif" width="25px">
+  Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.<img src="https://imagehost7.online-image-editor.com/oie_upload/images/OIE_2019NOV_51198395_60704820/26192514zLnO1BX7.gif" width="25px">
 </p>
 
 <p align="left">

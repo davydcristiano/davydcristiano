@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br> <br>Meu nome é <strong>Davyd Cristiano!</strong><br><br>
-  Atualmente estudo o curso de <strong>Programador Front-End</strong> no <strong>Senai</strong><br>
+  Atualmente sou estudante no curso de <strong>Programador Front-End</strong> do <strong>Senai</strong><br>
   e quero muito entrar na área de desenvolvimento web.
 </p>
 

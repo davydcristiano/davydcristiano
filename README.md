@@ -20,16 +20,16 @@
 
 <p align="left">
   
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/davyd_cristiano/"</a>
+  <a href="https://www.instagram.com/davyd_cristiano" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/davyd_cristiano"/></a>
   
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-8257e5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davyd-cristiano-b41b5b99/"</a>
+  <a href="https://www.linkedin.com/in/davyd-cristiano-b41b5b99" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-8257e5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davyd-cristiano-b41b5b99"/></a>
   
-  <a href="#" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-8257e5?style=flat-square&labelColor=8257e5&logo=discord&logoColor=white&link=https://discord.gg/ZMVfv2ng"</a>
+  <a href="https://discord.gg/ZMVfv2ng" alt="Discord">
+  <img src="https://img.shields.io/badge/-Discord-8257e5?style=flat-square&labelColor=8257e5&logo=discord&logoColor=white&link=https://discord.gg/ZMVfv2ng"/></a>
   
-  <a href="#" alt="Youtube">
-  <img src="https://img.shields.io/badge/-Youtube-8257e5?style=flat-square&labelColor=8257e5&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDn5q_9DMH2xiu1tSxBLIMA"</a>
+  <a href="https://www.youtube.com/channel/UCDn5q_9DMH2xiu1tSxBLIMA" alt="Youtube">
+  <img src="https://img.shields.io/badge/-Youtube-8257e5?style=flat-square&labelColor=8257e5&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDn5q_9DMH2xiu1tSxBLIMA"/></a>
   
 </p>  

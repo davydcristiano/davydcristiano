@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.<img src="https://user-images.githubusercontent.com/53920878/131753464-0e99c149-659a-4028-a756-af45b84caf5f.gif" width="25px">
+  Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.<img src="https://user-images.githubusercontent.com/53920878/131753464-0e99c149-659a-4028-a756-af45b84caf5f.gif" width="20px">
 </p>
 
 <p align="left">

@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/53920878/130911278-c0c54ec3-7e95-4c65-a0c6-87517af27dc0.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador davydcristiano">
+<img src="https://user-images.githubusercontent.com/53920878/138584734-41ff08e9-eea6-4025-b647-d914f08c130c.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador davydcristiano">
 
 <p align="left"> 
   Olá <img src="https://i.imgur.com/gcDqoIz.gif" width="20px"><br> <br>Meu nome é <strong>Davyd Cristiano!</strong><br><br>

@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  Linguagens: <strong>HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB.</strong>
+  Linguagens: <strong>HTML, CSS, JavaScript.</strong>
 </p>
 
 <p align="left">

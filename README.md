@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/53920878/138584734-41ff08e9-eea6-4025-b647-d914f08c130c.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador davydcristiano">
 
 <p align="left"> 
-  Olá <img src="https://i.imgur.com/gcDqoIz.gif" width="20px"><br> <br>Meu nome é <strong>Davyd Cristiano!</strong><br><br>
+  Olá <img src="https://i.imgur.com/gcDqoIz.gif" width="2%"><br> <br>Meu nome é <strong>Davyd Cristiano!</strong><br><br>
   Atualmente faço curso de <strong>Programador Front-End</strong> no <strong>Senai</strong><br>
   E quero muito entrar na área de desenvolvimento web.
 </p>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.<img src="https://user-images.githubusercontent.com/53920878/131753464-0e99c149-659a-4028-a756-af45b84caf5f.gif" width="20px">
+  Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.<img src="https://user-images.githubusercontent.com/53920878/131753464-0e99c149-659a-4028-a756-af45b84caf5f.gif" width="3%">
 </p>
 
 <p align="left">

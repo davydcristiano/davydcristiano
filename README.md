@@ -1,10 +1,10 @@
 <p align="left"> 
   Olá <img src="https://i.imgur.com/gcDqoIz.gif" width="2%"><br> <br>Meu nome é <strong>Davyd Cristiano!</strong><br><br>
-  Sou Desenvolvedor Web Front-End Qualificado pelo SENAI !<br><br> Hoje estou me especializando no curso Técnico de<br><strong>Análise e Desenvolvimento de Sistemas</strong><br>
+  Sou Desenvolvedor Web Front-End Qualificado pelo SENAI !<br><br> Hoje, estou me especializando no curso <strong>Técnico</strong> de <strong>Análise e Desenvolvimento de Sistemas.</strong><br>
 </p>
 
 <p align="left">
-  Linguagens: <strong>HTML5 - CSS3 - JavaScript - Git & GitHub - Bootstrap.</strong>
+  Linguagens: <strong>HTML - CSS - JavaScript - Git & GitHub - Bootstrap.</strong>
 </p>
 
 <p align="left">

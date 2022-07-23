@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/53920878/138584734-41ff08e9-eea6-4025-b647-d914f08c130c.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador davydcristiano">
-
 <p align="left"> 
   Olá <img src="https://i.imgur.com/gcDqoIz.gif" width="2%"><br> <br>Meu nome é <strong>Davyd Cristiano!</strong><br><br>
   Atualmente faço curso de <strong>Programador Front-End</strong> no <strong>Senai</strong><br>

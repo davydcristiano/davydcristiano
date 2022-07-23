@@ -1,15 +1,14 @@
 <p align="left"> 
   Olá <img src="https://i.imgur.com/gcDqoIz.gif" width="2%"><br> <br>Meu nome é <strong>Davyd Cristiano!</strong><br><br>
-  Atualmente faço curso de <strong>Programador Front-End</strong> no <strong>Senai</strong><br>
-  E quero muito entrar na área de desenvolvimento web.
+  Sou Desenvolvedor Web Front-End Qualificado pelo SENAI !<br><br> Hoje estou me especializando no curso Técnico de<br><strong>Análise e Desenvolvimento de Sistemas</strong><br>
 </p>
 
 <p align="left">
-  Linguagens: <strong>HTML, CSS, JavaScript.</strong>
+  Linguagens: <strong>HTML5 - CSS3 - JavaScript - Git & GitHub - Bootstrap.</strong>
 </p>
 
 <p align="left">
-  Ferramentas: <strong>WebStorm, PhpStorm, VSCode, Figma, AdobeXD, Trello, Git e GitHub.</strong>
+  Ferramentas: <strong>WebStorm, PhpStorm, VSCode, Figma, AdobeXD, Trello, Git e GitHub, Scrum.</strong>
 </p>
 
 <p align="left">

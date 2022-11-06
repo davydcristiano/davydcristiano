@@ -23,7 +23,7 @@
 - HTML - CSS - JavaScript - Bootstrap - Git & GitHub.
 - WebStorm, PhpStorm, VSCode, Figma, AdobeXD, Trello, Scrum.
 <br>
-<br>
+
 <div align="center">
 <a href="https://skillicons.dev">
     <img src="https://skills.thijs.gg/icons?i=html,css,js,bootstrap,git,github,vscode,figma,xd,stackoverflow,ps,ai,pr"/>

@@ -28,9 +28,8 @@
 
 ### Main skills
 - HTML - CSS - JavaScript - Bootstrap, Java, PHP, MySQL, Dart, Flutter - Git & GitHub, UI/UX, Acessibilidade VLibras.
-<br>
-<br>
 - WebStorm, PhpStorm, VSCode, Figma, AdobeXD, Trello, Scrum.
+
 <br>
 <br>
 

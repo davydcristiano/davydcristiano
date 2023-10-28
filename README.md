@@ -25,7 +25,9 @@
 <br>
 
 <div align="center">
-<h2 align="center"><img src="https://github.com/davydcristiano/davydcristiano/assets/53920878/5dd1e7e7-c3aa-4e5a-91cf-6de2fd112321" width="30px"> Olá, Sejam bem-vindos! <img src="https://github.com/davydcristiano/davydcristiano/assets/53920878/5dd1e7e7-c3aa-4e5a-91cf-6de2fd112321" width="30px"></h2>
+<h2>
+<img src="https://github.com/davydcristiano/davydcristiano/assets/53920878/5dd1e7e7-c3aa-4e5a-91cf-6de2fd112321" width="30px"> Olá, Sejam bem-vindos! <img src="https://github.com/davydcristiano/davydcristiano/assets/53920878/5dd1e7e7-c3aa-4e5a-91cf-6de2fd112321" width="30px">
+</h2>
 </div>
 
 ### Main skills

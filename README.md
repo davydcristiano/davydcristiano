@@ -24,7 +24,9 @@
 
 <br>
 
+<div align="center">
 <h2 align="center"><img src="https://github.com/davydcristiano/davydcristiano/assets/53920878/5dd1e7e7-c3aa-4e5a-91cf-6de2fd112321" width="30px"> Sejam bem-vindos ao meu github! <img src="https://github.com/davydcristiano/davydcristiano/assets/53920878/5dd1e7e7-c3aa-4e5a-91cf-6de2fd112321" width="30px"></h2>
+</div>
 
 ### Main skills
 - HTML - CSS - JavaScript - Bootstrap, Java, PHP, MySQL, Dart, Flutter - Git & GitHub, UI/UX, Acessibilidade VLibras.

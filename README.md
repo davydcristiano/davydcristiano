@@ -15,16 +15,29 @@
 <br>
 <br>
 
-<img align="right" width="25%" alt="Coding" src="https://github.com/davydcristiano/davydcristiano/assets/53920878/c5f0fbdc-0197-4f8d-ab01-7b526b75a9e7"/>
-
+<div>
+<table align="center">
+<tr>
 <br>
-
+<td>
+<p>
+  
 - Desenvolvedor Front-End Jr.
 
 - Cursando Técnico em Desenvolvimento de Sistemas.
 
 - Senai Jorge Mahfuz.
 
+</p>
+</td>
+<td>
+
+<img align="right" width="50%" alt="Coding" src="https://github.com/davydcristiano/davydcristiano/assets/53920878/cf06e6b1-3230-45da-b27e-44672eb8d979"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 <br>
 
@@ -43,8 +56,14 @@
 </h2>
 </div>
 
+<br>
+
 ### Main skills
+
+<br>
+
 - HTML - CSS - JavaScript - Bootstrap, Java, PHP, MySQL, Dart, Flutter - Git & GitHub, UI/UX, Acessibilidade VLibras.
+
 - WebStorm, PhpStorm, VSCode, Figma, AdobeXD, Trello, Scrum.
 
 <br>

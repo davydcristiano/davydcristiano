@@ -15,16 +15,15 @@
 <br>
 <br>
 
-<div>
-<table align="center">
+<div align="center" width="40%">
+<table>
 <tr>
-<br>
 <td>
 <p>
   
-- Desenvolvedor Front-End Jr.
+- Desenvolvedor Front-End & Mobile Flutter.
 
-- Cursando Técnico em Desenvolvimento de Sistemas.
+- Técnico em Desenvolvimento de Sistemas - Formado.
 
 - Senai Jorge Mahfuz.
 
@@ -48,9 +47,7 @@
 </p>
 
 <div align="center">
-<a>
     <img src="https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo!"/>
-  </a>
 </div>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="1">
 </h2>
@@ -62,9 +59,9 @@
 
 <br>
 
-- HTML - CSS - JavaScript - Bootstrap, Java, PHP, MySQL, Dart, Flutter - Git & GitHub, UI/UX, Acessibilidade VLibras.
+- HTML - CSS - JavaScript - Bootstrap, PHP, MySQL, Dart, Flutter - Git & GitHub, UI/UX, Acessibilidade VLibras.
 
-- WebStorm, PhpStorm, VSCode, Figma, AdobeXD, Trello, Scrum.
+- WebStorm, PhpStorm, IntelliJ, VSCode, Figma, AdobeXD, Trello, Scrum.
 
 <br>
 <br>

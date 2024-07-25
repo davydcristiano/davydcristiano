@@ -68,7 +68,7 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=html,css,js,bootstrap,java,php,mysql,dart,flutter,git,github,vscode,figma,xd,stackoverflow"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,php,mysql,dart,flutter,git,github,vscode,figma,xd,stackoverflow"/>
   </a>
 </div>
 
